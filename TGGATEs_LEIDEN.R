@@ -17,10 +17,6 @@
     # 1) Add pearson R/R2
 
 
-  # Collaboration Jeff Sutherland
-	# Dan (IBRI) - former boss Jeff (he is a lilly guy @ IBRI)
-	# Reply to Jeff about WGCNA - his work and my visualisation
-
 
 
 ## Settings
